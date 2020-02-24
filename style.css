@@ -61,6 +61,10 @@ footer{
     text-align: center;
 }
 
-
+.box-shadow{
+    box-shadow: 6px 6px 30px gray;
+    border-radius: 2px;
+    
+}
 
 
