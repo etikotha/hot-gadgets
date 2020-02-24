@@ -1,0 +1,66 @@
+
+.container{
+    margin-bottom: 60px;
+ 
+    
+}
+
+.image-bg{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+
+    
+
+}
+
+.carousel-indicators li{
+    background-color: rgb(206, 28, 87);
+    
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #070003 0%, #181617 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+   
+
+   
+}
+
+.navbar-nav .nav-link b  {
+    color: rgb(224, 188, 10);
+}
+
+.h3, h3 {
+   
+    color: black;
+}
+
+.card-footer{
+    
+    background-color: white;
+    border-top: none;
+}
+
+.card-title{
+    text-align: center;
+}
+.price{
+    text-align: center;
+}
+
+.cat1{
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+
+footer{
+    text-align: center;
+}
+
+
+
+
